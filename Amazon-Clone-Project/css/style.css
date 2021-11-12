@@ -6,7 +6,7 @@
 /* Upper header */
 .upper{
     display: flex;
-    background-color: black;
+    background-color: rgb(18,25,32);
     height: 77px;
     width: 100vw;
     justify-content: center;
@@ -52,7 +52,7 @@ nav input:hover, #categories:hover, #flag:hover{
     display: flex;
     justify-content: center;
     flex-direction: row;
-    background-color: #12343C;
+    background-color: rgb(34,46,62);
     height: 40px;
     width: 100vw;
 }
